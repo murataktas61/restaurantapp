@@ -10,7 +10,16 @@ body{
 }
 html,body{
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@media screen and (max-width: 341px) {
+    .herobg{
+        background-image:url('../src/img/heroBg.png');
+        height: 800px;
+    }
+}
