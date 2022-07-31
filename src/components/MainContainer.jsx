@@ -25,12 +25,12 @@ const MainContainer = () => {
             </p>
             <div className='hidden md:flex gap-3 items-center'>
               <motion.div whileTap={{scale:0.75}} className='w-8 h-8 rounded-lg bg-orange-300 hover:bg-orange-500 cursor-pointer  hover:shadow-lg flex items-center justify-center'
-              onClick={()=>setScrollValue(-600)}
+              onClick={()=>setScrollValue(-200)}
               >
                 <MdChevronLeft className='text-base text-white'/>
               </motion.div>
               <motion.div whileTap={{scale:0.75}} className='w-8 h-8 rounded-lg bg-orange-300 hover:bg-orange-500 cursor-pointer transition-all duration-100 ease-in-out hover:shadow-lg flex items-center justify-center'
-              onClick={()=>setScrollValue(600)}
+              onClick={()=>setScrollValue(200)}
               >
               <MdChevronRight className='text-lg text-white'/>
               </motion.div>
