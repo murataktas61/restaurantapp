@@ -1,7 +1,7 @@
 <h1>Food Delivery App - React Redux Reducer</h1>
 <p>We are going to develop a full stack food delivery application using Reactjs, Firebase, Framer motion, Tailwind css. This projects allows to the user to add new items and to maintain all the things over the firestore cloud database</p>
 
-![Ekran Resmi 2022-08-01 08 31 41](https://user-images.githubusercontent.com/58546835/182126966-2142297b-b1ee-40ae-96f0-dfeb607b7aef.png)
+![Ekran Resmi 2022-08-01 13 22 19](https://user-images.githubusercontent.com/58546835/182128272-f1a57807-87c0-4154-b6a3-8cafcdde0a4b.png)
 ![Ekran Resmi 2022-08-01 08 31 58](https://user-images.githubusercontent.com/58546835/182127040-07ffbb76-e23a-4f20-ae5b-696c2b644e83.png)
 ![Ekran Resmi 2022-08-01 08 32 06](https://user-images.githubusercontent.com/58546835/182127059-3bc2bd6c-6851-41b6-9c08-fef938d0aed7.png)
 ![Ekran Resmi 2022-08-01 08 32 19](https://user-images.githubusercontent.com/58546835/182127075-303677c5-fac9-4807-9793-491bd5bc915e.png)
