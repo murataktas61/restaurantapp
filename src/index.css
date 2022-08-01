@@ -21,5 +21,11 @@ html,body{
     .herobg{
         background-image:url('../src/img/heroBg.png');
         height: 800px;
+        
     }
+    .margin-b390{
+        margin-bottom: 390px!important;
+    }
+  
+    
 }
