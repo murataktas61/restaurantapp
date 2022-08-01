@@ -6,6 +6,7 @@ import RowContainer from './RowContainer'
 import { useStateValue } from '../context/StateProvider'
 import MenuContainer from './MenuContainer'
 import CartContainer from './CartContainer'
+import FooterContainer from './FooterContainer'
 
 
 const MainContainer = () => {
@@ -45,8 +46,12 @@ const MainContainer = () => {
       <MenuContainer/>
       {cartShow && (
       <CartContainer/>
+ 
       )}
+      <FooterContainer/>       
     </div>
+
+    
   )
 }
 
